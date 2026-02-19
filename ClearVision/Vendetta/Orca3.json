@@ -517,7 +517,8 @@
     },
     "background": {
         "url": "https://i.imgur.com/lvBtozQ.jpeg",
-	"alpha": 1
+	"alpha": 1,
+	"blur": 0
     },
     "plus": {
         "version": 0,
