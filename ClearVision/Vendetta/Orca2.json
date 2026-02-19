@@ -516,8 +516,9 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://wallpapercave.com/wp/wp10349611.jpg",
-	"alpha": 1
+        "url": "https://i.imgur.com/lvBtozQ.jpeg",
+	"alpha": 1,
+	"blur": 5
     },
     "plus": {
         "version": 0,
